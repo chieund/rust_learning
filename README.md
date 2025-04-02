@@ -10,5 +10,5 @@ $ cargo new hello_world
 
 # cargo build
 ```
-
+cargo build
 ```
